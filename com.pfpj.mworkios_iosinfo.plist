@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/niejinhao/updateMwork/raw/master/icon.png</string>
+					<string>https://github.com/niejinhao/updateMwork/raw/master/icon.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/niejinhao/updateMwork/raw/master/icon.png</string>
+					<string>https://github.com/niejinhao/updateMwork/raw/master/icon.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
