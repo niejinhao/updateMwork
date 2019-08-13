@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://103.22.255.221/api/appstore/com.pfpj.mworkios__ios__formal__ios.ipa.ios</string>
+					<string>https://github.com/niejinhao/updateMwork/raw/master/ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://103.22.255.221/api/appstore/com.pfpj.mworkios__ios__formal__icon.png.ios</string>
+					<string>https://github.com/niejinhao/updateMwork/raw/master/icon.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://103.22.255.221/api/appstore/com.pfpj.mworkios__ios__formal__icon.png.ios</string>
+					<string>https://github.com/niejinhao/updateMwork/raw/master/icon.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
